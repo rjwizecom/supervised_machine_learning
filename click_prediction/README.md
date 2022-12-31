@@ -3,13 +3,6 @@
 
 **The code is available [here](http://nbviewer.jupyter.org/github/marcotav/machine-learning-classification-projects/blob/master/click-prediction/notebooks/click-predictive-model.ipynb) **
 
-<br>
-
-<p align="center">
-  <img src="images/click1.png" width="120",height="120">
-</p>                                                                  
-
-<a id = 'Problem Statement'></a>
 ## Problem Statement
 
 Borrowing from [here](https://turi.com/learn/gallery/notebooks/click_through_rate_prediction_intro.html):
