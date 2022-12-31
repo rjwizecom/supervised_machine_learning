@@ -31,6 +31,6 @@
 Feel free to contact me:
 
 * Email: [wizecomltd@gmail.com](mailto:wizecomltd@gmail.com)
-* GitHub: [rjwizecom](https://github.com/rjwizecom)
+* GitHub: [Regina J](https://github.com/rjwizecom)
 * LinkedIn: [Regina John](https://www.linkedin.com/in/regina-john-573951245)
 * Website: [Wizecom](http://www.wizecom.co.uk) 
