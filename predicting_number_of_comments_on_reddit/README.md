@@ -3,8 +3,6 @@
 
 **The code is available [here]( https://github.com/rjwizecom/supervised_machine_learning/blob/main/predicting_number_of_comments_on_reddit/notebooks/predicting_comments_on_reddit.ipynb) **
 
-<br>
-
 <p align="center">
   <a href="#ps"> Problem Statement </a> •
   <a href="#steps"> Steps </a> •
