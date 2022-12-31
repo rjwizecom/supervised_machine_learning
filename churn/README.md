@@ -5,10 +5,7 @@
 
 
 <br>
-
-<p align="center">
-  <img src="images/cellphone.jpg", width = "400">
-</p>                                                                  
+                                                                 
 <p align="center">
   <a href="#goals"> Goals </a> •
   <a href="#importance"> Why this is important? </a> •
@@ -56,9 +53,6 @@ Reading the data:
 ```
 df = pd.read_csv("data.csv")
 ```
-<p align="center">
-  <img src="images/df_churn_new.png", width = "950">
-</p> 
 
 <a id = 'dh'></a>
 ## Data Handling and Feature Engineering
@@ -162,9 +156,7 @@ df1 = pd.DataFrame(list(zip(model_names, lst_av_cross_val_scores)))
 df1.columns = ['Model','Average Cross-Validation']
 df_all = pd.concat([df1,df['f1_score']],axis=1) 
 ```
-<p align="center">
-  <img src="images/model_comparison.png", width = "400">
-</p>
+
 
 If we use cross-validation as our metric, we see that the `KNeighborsClassifier` has the best performance. 
 
@@ -186,11 +178,6 @@ for preds in y_pred_lst:
     print('Precision for {} is:'.format(models_names[i-1]),precision,'\n')
     print('------------------------------------------------------------ \n')
 ```
-The output is:
-
-<p align="center">
-  <img src="images/cms2.png", width = "600">
-</p> 
 
 The highest recall is from `GaussianNB` and the highest precision from `KNeighborsClassifier`.
 
@@ -238,11 +225,6 @@ The predictions are:
 ```
 df_pred['predictions'].value_counts()/df_pred.shape[0]
 ```
-
-<p align="center">
-  <img src="images/predictions.png", width = "130">
-</p> 
-
 
 
 ### Cross Validation
