@@ -4,16 +4,6 @@
 ![image title](https://img.shields.io/badge/python-v3.6-green.svg) ![image title](https://img.shields.io/badge/ntlk-v3.2.5-yellow.svg) ![Image title](https://img.shields.io/badge/sklearn-0.19.1-orange.svg) ![Image title](https://img.shields.io/badge/BeautifulSoup-4.6.0-blue.svg) ![Image title](https://img.shields.io/badge/pandas-0.22.0-red.svg) ![Image title](https://img.shields.io/badge/matplotlib-v2.1.2-orange.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <br>
 
-<p align="center">
-<img src="https://github.com/marcotav/predicting-the-number-of-comments-on-reddit/blob/master/Reddit-logo.png" 
-       width="120" height="120"/>  
-</p> 
-
-<br/>
-<p align="center">
-  <img src='https://github.com/marcotav/machine-learning-regression-models/blob/master/retail/images/liquor.jpeg' width="200">
-</p>
-<br>
 
 <p align="center">
   <a href="#nb"> Notebooks and descriptions </a>  •
