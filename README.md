@@ -37,7 +37,7 @@
 
 
 <p align="center">
-<img src="https://github.com/marcotav/machine-learning-classification-projects/blob/master/click-prediction/images/click1.png" width="100">  
+<img src="https://https://www.github.com/rjwizecom/supervised_machine_learning/blob/main/click_prediction/images/click1.png" width="100">  
 </p> 
 
 <a id = 'ci'></a>
