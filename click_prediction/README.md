@@ -1,7 +1,7 @@
-## Predicting clicks on ads [[view code]](http://nbviewer.jupyter.org/github/marcotav/machine-learning-classification-projects/blob/master/click-prediction/notebooks/click-predictive-model.ipynb)
+## Predicting clicks on ads [[view code]](https://github.com/rjwizecom/supervised_machine_learning/blob/main/click_prediction/notebooks/click_predictive_model.ipynb)
 ![image title](https://img.shields.io/badge/work-in%20progress-blue.svg) ![image title](https://img.shields.io/badge/statsmodels-v0.8.0-blue.svg) ![Image title](https://img.shields.io/badge/sklearn-0.19.1-orange.svg) ![Image title](https://img.shields.io/badge/seaborn-v0.8.1-yellow.svg) ![Image title](https://img.shields.io/badge/pandas-0.22.0-red.svg) ![Image title](https://img.shields.io/badge/numpy-1.14.2-green.svg) ![Image title](https://img.shields.io/badge/matplotlib-v2.1.2-orange.svg)
 
-**The code is available [here](http://nbviewer.jupyter.org/github/marcotav/machine-learning-classification-projects/blob/master/click-prediction/notebooks/click-predictive-model.ipynb) **
+**The code is available [here](https://github.com/rjwizecom/supervised_machine_learning/blob/main/click_prediction/notebooks/click_predictive_model.ipynb) ** 
 
 ## Problem Statement
 
