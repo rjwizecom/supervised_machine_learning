@@ -22,13 +22,8 @@
 
 
 <p align="center">
-<img src="https://github.com/rjwizecom/supervised_machine_learning/blob/main/retail_strategy/images/cellphone.jpg" width="150" height="150"/> 
+<img src="https://github.com/rjwizecom/supervised_machine_learning/blob/main/retail_strategy/images/cellphone.jpg" width="200" height="150"/> 
 </p>
-
-
-<p align="center">
-<img src="https://https://www.github.com/rjwizecom/supervised_machine_learning/blob/main/click_prediction/images/click1.png" width="100">  
-</p> 
 
 <a id = 'ci'></a>
 ## Contact Information
